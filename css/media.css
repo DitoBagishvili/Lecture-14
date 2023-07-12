@@ -1,0 +1,34 @@
+@media (max-width: 1167px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1090px) {
+    .div3 {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 800px) {
+    nav {
+        display: none;
+    }
+    .fa-bars {
+        display: inline-block;
+    }
+}
+@media (max-width: 800px) {
+    .text1 h2 {
+        font-size: 35px;
+    }
+    .wrapper2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .div2 {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+}
+
